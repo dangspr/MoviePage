@@ -20,12 +20,12 @@
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
 
-Essa é uma das atividades práticas do curso CTD da Digital House, na aula disciplina Front-endI.
+Essa é uma das atividades práticas do curso CTD da Digital House (Front-endI).
 
 
 
 <!--layout-->
-## 🚀  Tecnologias
+## 🚀  Tecnologias 
 - [x]  **REACT**
 - [x] **HTML**
 - [x] **CSS**
