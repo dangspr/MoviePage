@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/dangspr/Semaforo/blob/master/github/planodefundo.png" alt="moviepage" />
+   <img src="https://github.com/dangspr/MoviePage/blob/main/public/readmepic.png" alt="moviepage" />
 </p>
 
 <!-- Badges -->
