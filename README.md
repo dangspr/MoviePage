@@ -20,7 +20,7 @@
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
 
-Essa é uma das atividades práticas do curso CTD da Digital House (Front-endI).
+Essa é uma das atividades práticas do curso CTD da Digital House (Front-endI). Te amo mete bala!
 
 
 
